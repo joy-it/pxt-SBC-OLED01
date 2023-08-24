@@ -10,7 +10,7 @@ This small 0.96 inch (approx. 2.44 cm) OLED display with SSD1306 controller work
 
 ## Connection
 
-|      COM-EEPROM-32       |               Micro:Bit            |
+|         SBC-OLED01       |               Micro:Bit            |
 |:------------------------:|:----------------------------------:|
 | VCC                      | 3,3 V                              |
 | SCL                      | P19 (SCL)                          |
