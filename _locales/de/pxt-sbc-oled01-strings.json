@@ -1,0 +1,10 @@
+{
+    "SBCOLED01.oledClear|block": "Anzeige auf OLED display löschen",
+    "SBCOLED01.oledDrawCircle|block": "Kreis bei x: %x und y: %y mit Radius: %radius auf OLED-Display zeichnen",
+    "SBCOLED01.oledDrawLine|block": "Zeichnen einer Linie von x: %x0 und y: %y0 nach x: %x1 und y: %y1 auf dem OLED-Display",
+    "SBCOLED01.oledDrawRectangle|block": "Zeichnen eines Rechtecks bei x: %x0 und y: %y0 mit Breite: %width und Höhe: %height auf dem OLED-Display",
+    "SBCOLED01.oledInit|block": "OLED-Display initialisieren",
+    "SBCOLED01.oledShowString|block": "String anzeigen: %str auf OLED-Display",
+    "SBCOLED01|block": "SBC-OLED01",
+    "{id:category}SBCOLED01": "SBC-OLED01"
+  }

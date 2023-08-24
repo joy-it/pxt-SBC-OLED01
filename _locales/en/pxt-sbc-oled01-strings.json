@@ -1,0 +1,10 @@
+{
+  "SBCOLED01.oledClear|block": "clear OLED display",
+  "SBCOLED01.oledDrawCircle|block": "draw circle at x: %x and y: %y with radius: %radius on OLED display",
+  "SBCOLED01.oledDrawLine|block": "draw line from x: %x0 and y: %y0 to x: %x1 and y: %y1 on OLED display",
+  "SBCOLED01.oledDrawRectangle|block": "draw rectangle at x: %x0 and y: %y0 with width: %width and height: %height on OLED display",
+  "SBCOLED01.oledInit|block": "initialize OLED Display",
+  "SBCOLED01.oledShowString|block": "show string: %str on OLED display",
+  "SBCOLED01|block": "SBC-OLED01",
+  "{id:category}SBCOLED01": "SBCOLED01"
+}

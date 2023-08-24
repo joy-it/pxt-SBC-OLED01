@@ -1,0 +1,20 @@
+{
+    "SBCOLED01.oledClear": "Löscht alle Ausgaben auf dem OLED-Display",
+    "SBCOLED01.oledDrawCircle": "Zeichnet einen Kreis auf dem OLED-Display",
+    "SBCOLED01.oledDrawCircle|param|radius": "Radius des Kreises",
+    "SBCOLED01.oledDrawCircle|param|x": "X-Koordinate der Startposition",
+    "SBCOLED01.oledDrawCircle|param|y": "Y-Koordinate der Startposition",
+    "SBCOLED01.oledDrawLine": "Zeichnet eine Linie auf dem OLED-Display",
+    "SBCOLED01.oledDrawLine|param|x0": "X-Koordinate der Startposition",
+    "SBCOLED01.oledDrawLine|param|x1": "X-Koordinate der Endposition",
+    "SBCOLED01.oledDrawLine|param|y0": "Y-Koordinate der Startposition",
+    "SBCOLED01.oledDrawLine|param|y1": "Y-Koordinate der Endposition",
+    "SBCOLED01.oledDrawRectangle": "Zeichnet ein Rechteck auf dem OLED-Display",
+    "SBCOLED01.oledDrawRectangle|param|height": "Höhe des Rechtecks",
+    "SBCOLED01.oledDrawRectangle|param|width": "Breite des Rechtecks",
+    "SBCOLED01.oledDrawRectangle|param|x": "X-Koordinate der Startposition",
+    "SBCOLED01.oledDrawRectangle|param|y": "Y-Koordinate der Startposition",
+    "SBCOLED01.oledInit": "Initialisiert das OLED-Display",
+    "SBCOLED01.oledShowString": "Zeigt eine Zeichenfolge auf dem OLED-Display an",
+    "SBCOLED01.oledShowString|param|str": "Der String, der angezeigt werden soll"
+  }
