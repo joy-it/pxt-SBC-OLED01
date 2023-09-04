@@ -1,7 +1,8 @@
 {
     "name": "pxt-sbc-oled01",
     "version": "1.0.1",
-    "description": "MakeCode package for the SBC-OLED01.",
+    "description": "MakeCode extension for the SBC-OLED01.",
+    "license": "MIT",
     "dependencies": {
         "core": "*"
     },

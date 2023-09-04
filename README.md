@@ -1,16 +1,16 @@
-# MakeCode Package for the Joy-IT SBC-OLED01
+# MakeCode extension for the Joy-IT SBC-OLED01
 
-This library provides a Microsoft Makecode package for the Joy-IT SBC-OLED01. See https://joy-it.net/products/SBC-OLED01 for more details.
+This library provides a Microsoft Makecode extension for the Joy-IT SBC-OLED01. See https://joy-it.net/products/SBC-OLED01 for more details.
 
 ## Overview
 
-This small 0.96 inch (approx. 2.44 cm) OLED display with SSD1306 controller works with an I2C interface, making it easy to use with Arduino, Raspberry Pi or other single-board computers or microcontrollers.
+This small 0.96 inch (approx. 2.44 cm) OLED display with SSD1306 controller works with an I2C interface, making it easy to use with micro:bit.
 
 **The OLED display is connected via I2C on address 0x3C.**
 
 ## Connection
 
-|         SBC-OLED01       |               Micro:Bit            |
+|         SBC-OLED01       |               micro:bit            |
 |:------------------------:|:----------------------------------:|
 | VCC                      | 3,3 V                              |
 | SCL                      | P19 (SCL)                          |

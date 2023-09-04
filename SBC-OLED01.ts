@@ -122,7 +122,7 @@ namespace SBCOLED01 {
     /**
      * Initializes the OLED display
      */
-    //% block="initialize OLED Display"
+    //% block="initialize OLED display"
     //% weight=100
     export function oledInit() {
       font = hex`
